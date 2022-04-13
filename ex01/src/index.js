@@ -1,5 +1,7 @@
+'use strict';
+
 class Car {
-    constructor(manufacturer, model, production){
+    constructor(manufacturer, model, production) {
         this.manufacturer = manufacturer;
         this.model = model;
         this.production = production;
